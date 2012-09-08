@@ -18,7 +18,7 @@ module Ted
       DEFAULT_API_VERSION = 'v1'
       DEFAULT_API_ENDPOINT = 'https://api.ted.com/'
       DEFAULT_WEB_ENDPOINT = 'https://ted.com/'
-      DEFAULT_USER_AGENT = "TED-API Gem #{Ted::Api::VERSION}".freeze
+      DEFAULT_USER_AGENT = "ted-api ruby gem #{Ted::Api::VERSION}".freeze
       DEFAULT_AUTO_TRAVERSAL = false
 
       attr_accessor(*VALID_OPTIONS_KEYS)
