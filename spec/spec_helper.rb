@@ -4,7 +4,7 @@ unless ENV['CI']
     add_filter "/spec"
   end
 end
-require 'ted-api'
+require 'ted_api'
 require 'rspec'
 require 'webmock/rspec'
 
