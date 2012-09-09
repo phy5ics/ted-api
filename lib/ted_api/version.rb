@@ -1,5 +1,3 @@
-module Ted
-  module Api
-    VERSION = '0.0.1'
-  end
+module TedApi
+  VERSION = '0.0.1'
 end
