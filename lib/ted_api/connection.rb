@@ -1,42 +1,29 @@
 require 'faraday_middleware'
 require 'faraday/response/raise_ted_api_error'
 
-module Octokit
-  # @private
-  module Connection
-    private
+module Ted
+  module Api
+    module Connection
+      private
 
-    def connection(authenticate=true, raw=false, version=3, force_urlencoded=false)
-      case version
-      when 3
-        url = Octokit.api_endpoint
-      end
+      def connection(raw=false, force_urlencoded=false)
+        url = "#{Ted::Api.api_endpoint}#{Ted::Api.api_version}"
 
-      options = {
-        :proxy => proxy,
-        :ssl => { :verify => false },
-        :url => url,
-      }
+        options = {
+          url: url
+        }
 
-      options.merge!(:params => {:access_token => oauth_token}) if oauthed? && !authenticated?
-      options.merge!(:params => unauthed_rate_limit_params) if !oauthed? && !authenticated? && unauthed_rate_limited?
-
-      # TODO: Don't build on every request
-      connection = Faraday.new(options) do |builder|
-        if version >= 3 && !force_urlencoded
+        connection = Faraday.new(options) do |builder|
           builder.request :json
-        else
-          builder.request :url_encoded
+          builder.use Faraday::Response::RaiseTedApiError
+          unless raw
+            builder.use FaradayMiddleware::Mashify
+            builder.use FaradayMiddleware::ParseJson
+          end
+          builder.adapter *adapter
         end
-        builder.use Faraday::Response::RaiseOctokitError
-        unless raw
-          builder.use FaradayMiddleware::Mashify
-          builder.use FaradayMiddleware::ParseJson
-        end
-        builder.adapter *adapter
+        connection
       end
-      connection.basic_auth authentication[:login], authentication[:password] if authenticate and authenticated?
-      connection
     end
   end
 end
