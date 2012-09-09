@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <talks>
+    <talk>
+      <id>1</id>
+      <event_id>3</event_id>
+      <name>Al Gore: Averting the climate crisis</name>
+      <description>With the same humor and humanity he exuded in &lt;em&gt;An Inconvenient Truth,&lt;/em&gt; Al Gore spells out 15 ways that individuals can address climate change immediately, from buying a hybrid to inventing a new, hotter "brand name" for global warming.</description>
+      <slug>al_gore_on_averting_climate_crisis</slug>
+      <native_language_code>en</native_language_code>
+      <published_at>2006-06-27 00:11:00</published_at>
+      <recorded_at>2006-02-25 00:00:00</recorded_at>
+      <updated_at>2012-07-20 15:23:09</updated_at>
+      <released_at>2012-07-20 15:23:09</released_at>
+    </talk>
+    <talk>
+      <id>2</id>
+      <event_id>3</event_id>
+      <name>Amy Smith shares simple, lifesaving design</name>
+      <description>Fumes from indoor cooking fires kill more than 2 million children a year in the developing world. MIT engineer Amy Smith details an exciting but simple solution: a tool for turning farm waste into clean-burning charcoal.</description>
+      <slug>amy_smith_shares_simple_lifesaving_design</slug>
+      <native_language_code>en</native_language_code>
+      <published_at>2006-08-15 00:11:00</published_at>
+      <recorded_at>2006-02-24 00:00:00</recorded_at>
+      <updated_at>2012-07-24 14:00:30</updated_at>
+      <released_at>2006-08-15 00:11:07</released_at>
+    </talk>
+    <talk>
+      <id>3</id>
+      <event_id>8</event_id>
+      <name>Ashraf Ghani on rebuilding broken states</name>
+      <description>Ashraf Ghani's passionate and powerful 10-minute talk, emphasizing the necessity of both economic investment and design ingenuity to rebuild broken states, is followed by a conversation with TED curator Chris Anderson on the future of Afghanistan.</description>
+      <slug>ashraf_ghani_on_rebuilding_broken_states</slug>
+      <native_language_code>en</native_language_code>
+      <published_at>2006-10-18 00:11:00</published_at>
+      <recorded_at>2005-07-12 00:00:00</recorded_at>
+      <updated_at>2012-09-04 20:40:40</updated_at>
+      <released_at>2006-10-18 00:11:16</released_at>
+    </talk>
+    <talk>
+      <id>4</id>
+      <event_id>3</event_id>
+      <name>Burt Rutan sees the future of space</name>
+      <description>In this passionate talk, legendary spacecraft designer Burt Rutan lambasts the US government-funded space program for stagnating and asks entrepreneurs to pick up where NASA has left off. </description>
+      <slug>burt_rutan_sees_the_future_of_space</slug>
+      <native_language_code>en</native_language_code>
+      <published_at>2006-10-25 00:11:00</published_at>
+      <recorded_at>2006-02-24 00:00:00</recorded_at>
+      <updated_at>2012-04-23 03:02:56</updated_at>
+      <released_at>2012-04-23 03:02:55</released_at>
+    </talk>
+    <talk>
+      <id>5</id>
+      <event_id>7</event_id>
+      <name>Chris Bangle says great cars are Art</name>
+      <description>American designer Chris Bangle explains his philosophy that car design is an art form in its own right, with an entertaining -- and ultimately moving -- account of the BMW Group's Deep Blue project, intended to create the SUV of the future.</description>
+      <slug>chris_bangle_says_great_cars_are_art</slug>
+      <native_language_code>en</native_language_code>
+      <published_at>2007-04-05 00:11:00</published_at>
+      <recorded_at>2002-02-02 00:00:00</recorded_at>
+      <updated_at>2012-04-22 22:51:03</updated_at>
+      <released_at>2012-04-22 22:51:03</released_at>
+    </talk>
+    <talk>
+      <id>6</id>
+      <event_id>8</event_id>
+      <name>Craig Venter on DNA and the sea</name>
+      <description>Genomics pioneer Craig Venter takes a break from his epic round-the-world expedition to talk about the millions of genes his team has discovered so far in its quest to map the ocean’s biodiversity.</description>
+      <slug>craig_venter_on_dna_and_the_sea</slug>
+      <native_language_code>en</native_language_code>
+      <published_at>2007-04-05 00:11:00</published_at>
+      <recorded_at>2005-02-24 00:00:00</recorded_at>
+      <updated_at>2007-04-05 00:11:30</updated_at>
+      <released_at>2007-04-05 00:11:30</released_at>
+    </talk>
+    <talk>
+      <id>7</id>
+      <event_id>3</event_id>
+      <name>David Pogue: Simplicity sells</name>
+      <description>New York Times columnist David Pogue takes aim at technology’s worst interface-design offenders, and provides encouraging examples of products that get it right. To funny things up, he bursts into song. </description>
+      <slug>david_pogue_says_simplicity_sells</slug>
+      <native_language_code>en</native_language_code>
+      <published_at>2006-06-27 00:11:00</published_at>
+      <recorded_at>2006-02-24 00:00:00</recorded_at>
+      <updated_at>2012-07-20 19:55:47</updated_at>
+      <released_at>2012-07-20 19:55:47</released_at>
+    </talk>
+    <talk>
+      <id>8</id>
+      <event_id>7</event_id>
+      <name>David Rockwell builds at Ground Zero</name>
+      <description>In this emotionally charged conversation with journalist Kurt Andersen, designer David Rockwell discusses the process of building a viewing platform at Ground Zero shortly after 9/11.</description>
+      <slug>david_rockwell_builds_at_ground_zero</slug>
+      <native_language_code>en</native_language_code>
+      <published_at>2007-06-12 05:11:00</published_at>
+      <recorded_at>2002-02-02 00:00:00</recorded_at>
+      <updated_at>2012-08-26 08:54:51</updated_at>
+      <released_at>2012-04-22 22:52:46</released_at>
+    </talk>
+    <talk>
+      <id>9</id>
+      <event_id>7</event_id>
+      <name>Dean Kamen on inventing and giving</name>
+      <description>Inventor Dean Kamen lays out his argument for the Segway and offers a peek into his next big ideas (portable energy and water purification for developing countries). </description>
+      <slug>dean_kamen_on_inventing_and_giving</slug>
+      <native_language_code>en</native_language_code>
+      <published_at>2007-04-05 00:11:00</published_at>
+      <recorded_at>2002-02-02 00:00:00</recorded_at>
+      <updated_at>2007-04-05 00:11:30</updated_at>
+      <released_at>2007-04-05 00:11:30</released_at>
+    </talk>
+    <talk>
+      <id>10</id>
+      <event_id>3</event_id>
+      <name>Dean Ornish: The world's killer diet</name>
+      <description>Stop wringing your hands over AIDS, cancer and the avian flu. Cardiovascular disease kills more people than everything else combined -- and it’s mostly preventable. Dr. Dean Ornish explains how changing our eating habits will save lives.</description>
+      <slug>dean_ornish_on_the_world_s_killer_diet</slug>
+      <native_language_code>en</native_language_code>
+      <published_at>2006-12-14 00:11:00</published_at>
+      <recorded_at>2006-02-23 00:00:00</recorded_at>
+      <updated_at>2012-07-19 18:25:30</updated_at>
+      <released_at>2012-07-19 18:25:30</released_at>
+    </talk>
+    <talk>
+      <id>11</id>
+      <event_id>7</event_id>
+      <name>Jane Goodall: What separates us from chimpanzees?</name>
+      <description>Jane Goodall hasn't found the missing link, but she's come closer than nearly anyone else. The primatologist says the only real difference between humans and chimps is our sophisticated language. She urges us to start using it to change the world.</description>
+      <slug>jane_goodall_on_what_separates_us_from_the_apes</slug>
+      <native_language_code>en</native_language_code>
+      <published_at>2007-04-05 00:11:00</published_at>
+      <recorded_at>2002-03-01 00:00:00</recorded_at>
+      <updated_at>2012-07-20 19:55:00</updated_at>
+      <released_at>2012-07-20 19:55:00</released_at>
+    </talk>
+    <talk>
+      <id>12</id>
+      <event_id>4</event_id>
+      <name>Eva Vertes looks to the future of medicine</name>
+      <description>Eva Vertes -- only 19 when she gave this talk -- discusses her journey toward studying medicine and her drive to understand the roots of cancer and Alzheimer’s.</description>
+      <slug>eva_vertes_looks_to_the_future_of_medicine</slug>
+      <native_language_code>en</native_language_code>
+      <published_at>2006-10-02 00:11:00</published_at>
+      <recorded_at>2005-02-26 00:00:00</recorded_at>
+      <updated_at>2012-04-23 03:08:56</updated_at>
+      <released_at>2012-04-23 03:08:55</released_at>
+    </talk>
+    <talk>
+      <id>13</id>
+      <event_id>7</event_id>
+      <name>Frank Gehry asks "Then what?"</name>
+      <description>In a wildly entertaining discussion with Richard Saul Wurman, architect Frank Gehry gives TEDsters his take on the power of failure, his recent buildings, and the all-important “Then what?” factor. </description>
+      <slug>frank_gehry_asks_then_what</slug>
+      <native_language_code>en</native_language_code>
+      <published_at>2008-01-17 00:11:00</published_at>
+      <recorded_at>2002-02-28 01:28:00</recorded_at>
+      <updated_at>2007-04-05 00:11:30</updated_at>
+      <released_at>2007-04-05 00:11:30</released_at>
+    </talk>
+    <talk>
+      <id>14</id>
+      <event_id>5</event_id>
+      <name>Golan Levin on software (as) art</name>
+      <description>Engineer and artist Golan Levin pushes the boundaries of what’s possible with audiovisuals and technology. In an amazing TED display, he shows two programs he wrote to perform his original compositions.</description>
+      <slug>golan_levin_on_software_as_art</slug>
+      <native_language_code>en</native_language_code>
+      <published_at>2007-04-05 00:11:00</published_at>
+      <recorded_at>2004-02-27 00:00:00</recorded_at>
+      <updated_at>2012-04-23 02:49:46</updated_at>
+      <released_at>2012-04-23 02:49:45</released_at>
+    </talk>
+    <talk>
+      <id>16</id>
+      <event_id>3</event_id>
+      <name>Helen Fisher: Why we love, why we cheat</name>
+      <description>Anthropologist Helen Fisher takes on a tricky topic – love – and explains its evolution, its biochemical foundations and its social importance. She closes with a warning about the potential disaster inherent in antidepressant abuse.</description>
+      <slug>helen_fisher_tells_us_why_we_love_cheat</slug>
+      <native_language_code>en</native_language_code>
+      <published_at>2006-09-06 00:11:00</published_at>
+      <recorded_at>2006-02-24 00:00:00</recorded_at>
+      <updated_at>2012-07-18 15:51:17</updated_at>
+      <released_at>2012-07-18 15:51:17</released_at>
+    </talk>
+    <talk>
+      <id>18</id>
+      <event_id>4</event_id>
+      <name>Janine Benyus: The promise of biomimicry</name>
+      <description>In this inspiring talk about recent developments in biomimicry, Janine Benyus provides heartening examples of ways in which nature is already influencing the products and systems we build.</description>
+      <slug>janine_benyus_shares_nature_s_designs</slug>
+      <native_language_code>en</native_language_code>
+      <published_at>2007-04-05 00:11:00</published_at>
+      <recorded_at>2005-02-24 00:00:00</recorded_at>
+      <updated_at>2012-07-18 18:41:02</updated_at>
+      <released_at>2012-07-18 18:41:02</released_at>
+    </talk>
+    <talk>
+      <id>19</id>
+      <event_id>4</event_id>
+      <name>Kevin Kelly: How technology evolves</name>
+      <description>Tech enthusiast Kevin Kelly asks "What does technology want?" and discovers that its movement toward ubiquity and complexity is much like the evolution of life.</description>
+      <slug>kevin_kelly_on_how_technology_evolves</slug>
+      <native_language_code>en</native_language_code>
+      <published_at>2006-11-14 00:11:00</published_at>
+      <recorded_at>2005-02-24 00:00:00</recorded_at>
+      <updated_at>2012-07-19 15:12:49</updated_at>
+      <released_at>2012-07-19 15:12:49</released_at>
+    </talk>
+    <talk>
+      <id>20</id>
+      <event_id>5</event_id>
+      <name>Malcolm Gladwell: Choice, happiness and spaghetti sauce</name>
+      <description>"Tipping Point" author Malcolm Gladwell gets inside the food industry's pursuit of the perfect spaghetti sauce -- and makes a larger argument about the nature of choice and happiness.</description>
+      <slug>malcolm_gladwell_on_spaghetti_sauce</slug>
+      <native_language_code>en</native_language_code>
+      <published_at>2006-09-19 00:11:00</published_at>
+      <recorded_at>2004-02-26 00:00:00</recorded_at>
+      <updated_at>2012-07-18 15:40:21</updated_at>
+      <released_at>2012-07-18 15:40:21</released_at>
+    </talk>
+    <talk>
+      <id>21</id>
+      <event_id>3</event_id>
+      <name>Mena Trott on blogs</name>
+      <description>The founding mother of the blog revolution, Movable Type's Mena Trott, talks about the early days of blogging, when she realized that giving regular people the power to share our lives online is the key to building a friendlier, more connected world.</description>
+      <slug>mena_trott_tours_her_blog_world</slug>
+      <native_language_code>en</native_language_code>
+      <published_at>2006-08-25 00:11:00</published_at>
+      <recorded_at>2006-02-23 00:00:00</recorded_at>
+      <updated_at>2012-04-23 03:06:35</updated_at>
+      <released_at>2012-04-23 03:06:35</released_at>
+    </talk>
+    <talk>
+      <id>22</id>
+      <event_id>3</event_id>
+      <name>Michael Shermer: Why people believe weird things</name>
+      <description>Why do people see the Virgin Mary on a cheese sandwich or hear demonic lyrics in "Stairway to Heaven"? Using video and music, skeptic Michael Shermer shows how we convince ourselves to believe -- and overlook the facts.</description>
+      <slug>michael_shermer_on_believing_strange_things</slug>
+      <native_language_code>en</native_language_code>
+      <published_at>2006-11-08 00:11:00</published_at>
+      <recorded_at>2006-02-23 00:00:00</recorded_at>
+      <updated_at>2012-07-20 12:53:35</updated_at>
+      <released_at>2012-07-18 17:19:04</released_at>
+    </talk>
+  </talks>
+  <counts>
+    <this>20</this>
+    <total>1331</total>
+  </counts>
+</response>
