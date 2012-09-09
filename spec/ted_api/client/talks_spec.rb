@@ -32,6 +32,22 @@ describe TedApi::Client::Talks do
     response.talk.name.should == "Al Gore: Averting the climate crisis" 
   end 
   
+  it "should return speakers for a specific Ted talk in json" do
+    @client = TedApi::Client.new(api_key: 'foo')
+    stub_get("talks/1/speakers.json?api-key=foo").
+      to_return(:body => fixture("speakers.json"))
+    response = @client.speakers('1')
+    response.speakers.first.speaker.description.should == 'Climate-change prophet'
+  end
+  
+  it "should return speakers for a specific Ted talk in json" do
+    @client = TedApi::Client.new(api_key: 'foo')
+    stub_get("talks/1/subtitles.json?api-key=foo").
+      to_return(:body => fixture("subtitles.json"))
+    response = @client.subtitles('1')
+    response.first.first.should == "0"
+  end
+  
   # XML Tests:
   
   it "should list Ted talks in xml" do
