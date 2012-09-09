@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <events>
+    <event>
+      <id>1</id>
+      <name>TED2008</name>
+      <description></description>
+      <header_text></header_text>
+      <slug>2008</slug>
+      <url></url>
+      <starts_at>2008-02-27 00:00:00</starts_at>
+    </event>
+    <event>
+      <id>2</id>
+      <name>TED2007</name>
+      <description></description>
+      <header_text></header_text>
+      <slug>2007</slug>
+      <url></url>
+      <starts_at>2007-03-07 00:00:00</starts_at>
+    </event>
+    <event>
+      <id>3</id>
+      <name>TED2006</name>
+      <description></description>
+      <header_text></header_text>
+      <slug>2006</slug>
+      <url></url>
+      <starts_at>2006-02-22 00:00:00</starts_at>
+    </event>
+    <event>
+      <id>4</id>
+      <name>TED2005</name>
+      <description></description>
+      <header_text></header_text>
+      <slug>2005</slug>
+      <url></url>
+      <starts_at>2005-02-23 00:00:00</starts_at>
+    </event>
+    <event>
+      <id>5</id>
+      <name>TED2004</name>
+      <description></description>
+      <header_text></header_text>
+      <slug>2004</slug>
+      <url></url>
+      <starts_at>2004-02-25 00:00:00</starts_at>
+    </event>
+    <event>
+      <id>6</id>
+      <name>TED2003</name>
+      <description></description>
+      <header_text></header_text>
+      <slug>2003</slug>
+      <url></url>
+      <starts_at>2003-05-13 00:00:00</starts_at>
+    </event>
+    <event>
+      <id>7</id>
+      <name>TED2002</name>
+      <description></description>
+      <header_text></header_text>
+      <slug>2002</slug>
+      <url></url>
+      <starts_at>2002-02-20 00:00:00</starts_at>
+    </event>
+    <event>
+      <id>8</id>
+      <name>TEDGlobal 2005</name>
+      <description></description>
+      <header_text></header_text>
+      <slug>tg2005</slug>
+      <url></url>
+      <starts_at>2005-07-12 00:00:00</starts_at>
+    </event>
+    <event>
+      <id>9</id>
+      <name>TEDSalon 2006</name>
+      <description></description>
+      <header_text></header_text>
+      <slug>tedsalon2006</slug>
+      <url></url>
+      <starts_at>2006-12-14 00:00:00</starts_at>
+    </event>
+    <event>
+      <id>10</id>
+      <name>TEDGlobal 2007</name>
+      <description></description>
+      <header_text></header_text>
+      <slug>tg2007</slug>
+      <url></url>
+      <starts_at>2007-06-04 00:00:00</starts_at>
+    </event>
+    <event>
+      <id>12</id>
+      <name>DLD 2007</name>
+      <description></description>
+      <header_text>DLD (Digital Life Design), held annually in Munich, covers digital innovation, media and design. &lt;a href="http://www.dld-conference.com/" target="_blank"&gt;Learn more &amp;gt;&amp;gt;&lt;/a&gt;</header_text>
+      <slug>dld_2007</slug>
+      <url>http://www.dld-conference.com/</url>
+      <starts_at>2009-12-23 17:16:00</starts_at>
+    </event>
+    <event>
+      <id>13</id>
+      <name>LIFT 2007</name>
+      <description></description>
+      <header_text>The LIFT Conference, held in Geneva, explores the impact of technology on society.&amp;nbsp;&lt;a href="http://www.liftconference.com/" target="_blank"&gt;Learn more &amp;gt;&amp;gt;&lt;/a&gt; </header_text>
+      <slug>lift_2007</slug>
+      <url>http://www.liftconference.com/</url>
+      <starts_at>2009-12-23 16:46:00</starts_at>
+    </event>
+    <event>
+      <id>14</id>
+      <name>Skoll World Forum 2007</name>
+      <description></description>
+      <header_text>The Skoll World Forum on Social Entrepreneurship is the premier, international platform for accelerating entrepreneurial approaches and innovative solutions to the world&amp;rsquo;s most pressing social issues. &lt;a href="http://skollworldforum.org/"&gt;Learn more &amp;raquo;&lt;/a&gt;</header_text>
+      <slug>skoll_2007</slug>
+      <url>http://skollworldforum.org/</url>
+      <starts_at>2007-03-27 01:00:00</starts_at>
+    </event>
+    <event>
+      <id>15</id>
+      <name>TEDSalon 2007 Hot Science</name>
+      <description></description>
+      <header_text></header_text>
+      <slug>tedsalon2007</slug>
+      <url></url>
+      <starts_at>2007-09-26 00:00:00</starts_at>
+    </event>
+    <event>
+      <id>17</id>
+      <name>TED2001</name>
+      <description></description>
+      <header_text></header_text>
+      <slug>2001</slug>
+      <url></url>
+      <starts_at>2001-02-02 00:00:00</starts_at>
+    </event>
+    <event>
+      <id>18</id>
+      <name>TED2009</name>
+      <description>TED2009</description>
+      <header_text></header_text>
+      <slug>2009</slug>
+      <url></url>
+      <starts_at>2009-02-03 00:01:00</starts_at>
+    </event>
+    <event>
+      <id>19</id>
+      <name>TED1984</name>
+      <description></description>
+      <header_text></header_text>
+      <slug>1984</slug>
+      <url></url>
+      <starts_at>1984-03-03 16:45:00</starts_at>
+    </event>
+    <event>
+      <id>20</id>
+      <name>TED1990</name>
+      <description></description>
+      <header_text></header_text>
+      <slug>1990</slug>
+      <url></url>
+      <starts_at>1990-03-03 16:48:00</starts_at>
+    </event>
+    <event>
+      <id>22</id>
+      <name>TED2000</name>
+      <description></description>
+      <header_text></header_text>
+      <slug>2000</slug>
+      <url></url>
+      <starts_at>2000-02-23 00:00:00</starts_at>
+    </event>
+    <event>
+      <id>23</id>
+      <name>TED1999</name>
+      <description></description>
+      <header_text></header_text>
+      <slug>1999</slug>
+      <url></url>
+      <starts_at>1999-02-17 00:00:00</starts_at>
+    </event>
+  </events>
+  <counts>
+    <this>20</this>
+    <total>211</total>
+  </counts>
+</response>

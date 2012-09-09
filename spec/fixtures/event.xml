@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <event>
+    <id>1</id>
+    <name>TED2008</name>
+    <description></description>
+    <header_text></header_text>
+    <slug>2008</slug>
+    <url></url>
+    <starts_at>2008-02-27 00:00:00</starts_at>
+  </event>
+</response>
