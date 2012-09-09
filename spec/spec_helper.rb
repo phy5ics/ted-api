@@ -4,6 +4,7 @@ unless ENV['CI']
     add_filter "/spec"
   end
 end
+
 require 'ted_api'
 require 'rspec'
 require 'webmock/rspec'
@@ -24,10 +25,6 @@ def stub_post(url)
   stub_request(:post, ted_url(url))
 end
 
-def stub_put(url)
-  stub_request(:put, ted_url(url))
-end
-
 def fixture_path
   File.expand_path("../fixtures", __FILE__)
 end
@@ -37,6 +34,5 @@ def fixture(file)
 end
 
 def ted_url(url)
-  #{@client.api_key}
-  "https://api.ted.com#{url}"
+  "https://api.ted.com/#{@client.api_version}/#{url}"
 end
