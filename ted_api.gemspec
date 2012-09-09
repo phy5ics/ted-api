@@ -5,7 +5,7 @@ require 'ted_api/version'
 
 Gem::Specification.new do |gem|
   gem.name          = "ted_api"
-  gem.version       = Ted::Api::VERSION
+  gem.version       = TedApi::VERSION
   gem.authors       = ["John Barton"]
   gem.email         = ["jb@phy5ics.com"]
   gem.description   = %q{TODO: Write a gem description}
@@ -21,6 +21,7 @@ Gem::Specification.new do |gem|
   gem.add_dependency 'faraday_middleware', '~> 0.8.4'
   gem.add_dependency 'hashie', '~> 1.2'
   gem.add_dependency 'multi_json', '~> 1.3'
+  gem.add_dependency 'multi_xml', '~> 0.5.1'
   
   gem.add_development_dependency 'json'
   gem.add_development_dependency 'maruku'
