@@ -1,8 +1,8 @@
-# TedApi
+# TedApi Client
 
-This gem wraps the TED Talks API using Faraday.  It includes support for both Hashie parsed JSON, XML and also raw response formats.  It contains a 1:1 match for all API calls including the duplicate and somewhat useless ones such as languages and events.  All calls are tested for both JSON and XML responses.  
+This gem wraps the TED Talks API making calls using Faraday.  It includes support for both Hashie parsed JSON and XML in addition to providing raw response formats.  It contains a 1:1 match for all API calls including the duplicate and somewhat useless ones such as languages and events.  All calls are tested for both JSON and XML responses.
 
-You will need a TED API key to consume the API and there are currently only 50 that have been given out.  I was lucky enough that my proposal was accepted to receive one for my TED-API-50 project.  Hopefully they will open up the API to the public soon so that I won't have written this gem for the 50 of us.
+You will need a TED API key to consume the API and there are currently only 50 that have been given out.  I was lucky enough that my proposal was accepted to receive one for my TED-API-50 project.  Hopefully they will open up the API to the public soon so that I won't have written this gem for the 50 of us.  See http://developer.ted.com/ for additional information.
 
 ## Installation
 
