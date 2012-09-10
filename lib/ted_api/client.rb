@@ -5,6 +5,7 @@ require 'ted_api/error'
 require 'ted_api/client/talks'
 require 'ted_api/client/events'
 require 'ted_api/client/languages'
+require 'ted_api/client/quotes'
 
 module TedApi
   class Client
@@ -22,6 +23,7 @@ module TedApi
     include TedApi::Client::Talks
     include TedApi::Client::Events
     include TedApi::Client::Languages
+    include TedApi::Client::Quotes
     
   end
 end
