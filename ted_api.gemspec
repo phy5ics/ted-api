@@ -8,9 +8,9 @@ Gem::Specification.new do |gem|
   gem.version       = TedApi::VERSION
   gem.authors       = ["John Barton"]
   gem.email         = ["jb@phy5ics.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
-  gem.homepage      = ""
+  gem.description   = %q{A wrapper for the TED Talks API.}
+  gem.summary       = %q{A wrapper for the TED Talks API that allows for both JSON and XML methods.  See http://developer.ted.com/ for more information on the API.}
+  gem.homepage      = "https://github.com/phy5ics/ted-api"
 
   gem.files         = `git ls-files`.split($/)
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }
