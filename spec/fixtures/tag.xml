@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <tag>
+    <id>1</id>
+    <name>standard</name>
+    <is_triple></is_triple>
+    <triple_namespace></triple_namespace>
+    <triple_key></triple_key>
+    <triple_value></triple_value>
+  </tag>
+</response>

@@ -17,7 +17,7 @@ module TedApi
         get("talks/#{talk}/subtitles", options, raw)
       end
       
-      def speakers(talk, options={}, raw=false)
+      def speakers_by_talk(talk, options={}, raw=false)
         get("talks/#{talk}/speakers", options, raw)
       end
       

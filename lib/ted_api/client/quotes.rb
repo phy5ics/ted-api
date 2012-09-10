@@ -3,7 +3,7 @@ module TedApi
     module Quotes
       
       ##
-      # http://developer.ted.com/API_Docs#quots
+      # http://developer.ted.com/API_Docs#quotes
       
       def quotes(quote=nil, options={}, raw=false)
         if quote.nil?

@@ -35,8 +35,8 @@ describe TedApi::Client::Talks do
   it "should return speakers for a specific Ted talk in json" do
     @client = TedApi::Client.new(api_key: 'foo')
     stub_get("talks/1/speakers.json?api-key=foo").
-      to_return(:body => fixture("speakers.json"))
-    response = @client.speakers('1')
+      to_return(:body => fixture("speakers_by_talk.json"))
+    response = @client.speakers_by_talk('1')
     response.speakers.first.speaker.description.should == 'Climate-change prophet'
   end
   

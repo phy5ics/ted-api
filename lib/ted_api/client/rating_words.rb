@@ -3,7 +3,7 @@ module TedApi
     module RatingWords
       
       ##
-      # http://developer.ted.com/API_Docs#languages
+      # http://developer.ted.com/API_Docs#rating_words
       
       def rating_words(rating_word=nil, options={}, raw=false)
         if rating_word.nil?

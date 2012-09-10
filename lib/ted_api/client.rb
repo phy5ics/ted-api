@@ -7,6 +7,10 @@ require 'ted_api/client/events'
 require 'ted_api/client/languages'
 require 'ted_api/client/quotes'
 require 'ted_api/client/rating_words'
+require 'ted_api/client/speakers'
+require 'ted_api/client/themes'
+require 'ted_api/client/countries'
+require 'ted_api/client/tags'
 
 module TedApi
   class Client
@@ -26,6 +30,10 @@ module TedApi
     include TedApi::Client::Languages
     include TedApi::Client::Quotes
     include TedApi::Client::RatingWords
+    include TedApi::Client::Speakers
+    include TedApi::Client::Themes
+    include TedApi::Client::Countries
+    include TedApi::Client::Tags
     
   end
 end

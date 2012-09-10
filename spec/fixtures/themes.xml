@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <themes>
+    <theme>
+      <id>1</id>
+      <name>The Creative Spark</name>
+      <description>How are we inspired? Where might our imaginations take us? What does creativity look like in its wildest form? These clever, invigorating speakers plumb the wellspring of invention.&#13;
+&#13;
+Writer, director and producer &lt;a href="/index.php/talks/view/id/205"&gt;J.J. Abrams&lt;/a&gt;' exuberant talk explores the nature of storytelling, the changing face of filmmaking and the possibility that mystery is more important than knowledge. Artist and programmer &lt;a href="/index.php/talks/view/id/172"&gt;John Maeda&lt;/a&gt; shares stories and observations about what complexity has taught him about simplicity, and how their relationship inspires him. Meanwhile, designer &lt;a href="/index.php/talks/view/id/197"&gt;Philippe Starck&lt;/a&gt; explains how his iconic creations come by way of the primordial soup.&#13;
+&#13;
+&lt;a href="/index.php/talks/view/id/14"&gt;Golan Levin&lt;/a&gt; shows off his "software art": spellbinding audiovisual experiences that incorporate eerie sonic textures and tangles of color that move with life of their own. Pianist &lt;a href="/index.php/talks/view/id/46"&gt;Jennifer Lin&lt;/a&gt;, just 14 when she performed at TED, confects stunning, virtuosic compositions on the fly. And illustrator &lt;a href="/index.php/talks/view/id/182"&gt;Maira Kalman&lt;/a&gt; considers the role of knowledge (or lack thereof) in the creative process -- and concludes that daydreaming is the best job on Earth.&#13;
+&#13;
+Don't miss game designer &lt;a href="/index.php/talks/view/id/146"&gt;Will Wright&lt;/a&gt;'s preview of Spore, in which players control the evolution of custom-designed critters -- and colonize a galaxy. Or the dancers of &lt;a href="/index.php/talks/view/id/24"&gt;Pilobolus&lt;/a&gt;, who suggest a mutating organism that grows mouths and legs, slithers, drips like oil and turns itself inside out. And be sure to visit actor &lt;a href="/index.php/talks/view/id/60"&gt;Anna Deavere Smith&lt;/a&gt;, who delves into history, crime, race and culture by channeling the voices of four authentic American characters.</description>
+      <shortsummary>Speakers who talk about the creative process</shortsummary>
+      <talks_description></talks_description>
+      <speakers_description></speakers_description>
+      <slug>the_creative_spark</slug>
+      <is_featured></is_featured>
+    </theme>
+    <theme>
+      <id>2</id>
+      <name>Animals That Amaze</name>
+      <description>What do animals have to do with technology, entertainment, design and the world of ideas? More than you might think.&#13;
+&#13;
+Oceanographer &lt;a href="/index.php/talks/view/id/206"&gt;David Gallo&lt;/a&gt; presents a stunning video menagerie of sea creatures that glow, spew ink, shape-shift -- and exhibit romantic duplicity. Scientist &lt;a href="/index.php/talks/view/id/195"&gt;Robert Full&lt;/a&gt;'s rousing talk explores what we might learn about locomotion -- speed, versatility, flexibility -- through the study of animal movement. &lt;a href="/index.php/talks/view/id/76"&gt;Susan Savage-Rumbaugh&lt;/a&gt; introduces astonishing bonobo apes that start fires, write and play Pac Man. Science author &lt;a href="/index.php/talks/view/id/18"&gt;Janine Benyus&lt;/a&gt;, meanwhile, sees "solutions in seashells": ingenious adaptations in nature that solve intractable human problems.</description>
+      <shortsummary>A collection of talks praising the beauty, ingenuity and wonder of our fellow beasts</shortsummary>
+      <talks_description></talks_description>
+      <speakers_description>[[held copy -- add when videos are live:&#13;
+There's a long tradition at TED of astonishing talks about animals. You may think this strange at first glance. &#13;
+Start with Robert Full's extraordinary work with cockroaches, millipedes and geckos. By studying them, he's been able to create incredible robots. Deborah Gordon's brilliant work on ants powerfully demonstrates the idea of "emergence" when thousands of individuals inadvertently create a powerful meta-level behavior. &#13;
+Try watching Tierney Thys's talk about the bizarre mola mola fish or ...</speakers_description>
+      <slug>animals_that_amaze</slug>
+      <is_featured></is_featured>
+    </theme>
+    <theme>
+      <id>3</id>
+      <name>Evolution's Genius</name>
+      <description>TED adores great design. A growing number of speakers focus their Talks on the most elegant designs that exist: those in the natural world.&#13;
+&#13;
+&lt;a href="/index.php/talks/view/id/18"&gt;Janine Benyus&lt;/a&gt; points out that nature has to its advantage around 3.8 billion years of "research and development," and lists wonderful examples of natural designs that solve intractable human engineering problems. &lt;a href="/index.php/talks/view/id/80"&gt;Juan Enriquez&lt;/a&gt; describes how nature is driven by a remarkable information engine -- DNA -- and what that means for our future.&#13;
+&#13;
+&lt;a href="/index.php/talks/view/id/98"&gt;Richard Dawkins&lt;/a&gt;, perhaps the world’s most outspoken and influential evolutionary biologist, describes a "queer" natural world abundant with surprises and peculiarity, and warns us that even our minds are products of evolution. Likewise, &lt;a href="/index.php/talks/view/id/164"&gt;Steven Pinker&lt;/a&gt;, &lt;a href="/index.php/talks/view/id/16"&gt;Helen Fisher&lt;/a&gt; and &lt;a href="/index.php/talks/view/id/102"&gt;Dan Dennett&lt;/a&gt; present insights on how evolution has shaped the human mind, and how its configuration affects love, sex, parenting and the spread of ideas. &lt;a href="/index.php/talks/view/id/19"&gt;Kevin Kelly&lt;/a&gt;, meanwhile, advances his conception of technology as a new branch of life -- which is evolving accordingly.&#13;
+</description>
+      <shortsummary>Talks that marvel at nature's design</shortsummary>
+      <talks_description></talks_description>
+      <speakers_description>&lt;b&gt;Robert Full&lt;/b&gt; adds his own, using the unlikely raw material of cockroaches and geckos. </speakers_description>
+      <slug>evolution_s_genius</slug>
+      <is_featured></is_featured>
+    </theme>
+    <theme>
+      <id>4</id>
+      <name>How the Mind Works</name>
+      <description>At a conference about ideas, it’s important to step back and consider the engine that creates them: the human mind. How exactly does the brain -- a three-pound snarl of electrochemically frantic nervous tissue -- create inspired inventions, the feeling of hunger, the experience of beauty, or the sense of self -- and how reliable is it?&#13;
+&#13;
+&lt;a href="/index.php/talks/view/id/116"&gt;Dan Dennett&lt;/a&gt; contemplates the mind as an ecosystem in which a new class of entities -- memes -- can compete, coexist, reproduce and flourish, and asks what sorts of nefarious things these entities might be up to. An enthusiastic &lt;a href="/index.php/talks/view/id/97"&gt;Dan Gilbert&lt;/a&gt; presents his new research on the peculiar, counterintuitive -- and perhaps a smidge deflating -- secret to happiness. And &lt;a href="/index.php/talks/view/id/125"&gt;Jeff Hawkins&lt;/a&gt; explains why a napkin-sized sheaf of cellular matter, wrinkled into a ball, will fundamentally change the direction of the computer industry.</description>
+      <shortsummary>The latest thinking on thinking</shortsummary>
+      <talks_description></talks_description>
+      <speakers_description>Steve Pinker shows it's a huge error to think of the mind as a blank slate shaped by upbringing alone. Jeff Hawkins unveils a grand theory about how brains function. </speakers_description>
+      <slug>how_the_mind_works</slug>
+      <is_featured></is_featured>
+    </theme>
+    <theme>
+      <id>5</id>
+      <name>The Power of Cities</name>
+      <description>In the last 3,000 years, the history of humankind has been tied to the history of cities. With half of the world's population living in urban settings now, it's urgent that we examine them and update our understanding.&#13;
+&#13;
+&lt;a href="/index.php/talks/view/id/36"&gt;Robert Neuwirth&lt;/a&gt; lived in and studied the overcrowded slums of megacities such as Nairobi and Rio de Janeiro -- and found hope and vitality there. &lt;a href="/index.php/talks/view/id/53"&gt;Majora Carter&lt;/a&gt; talks about how enlightened policymaking can "green the ghetto," offering an eye-opening look at why ghettos exist. &lt;a href="/index.php/talks/view/id/61"&gt;Steven Johnson&lt;/a&gt;, meanwhile, shares the history of a mapping innovation that helped wipe out a deadly disease in London -- and brought about a new reading of urban epidemics and public health.</description>
+      <shortsummary>Half the world's population lives in cities now; it's urgent that we understand them better</shortsummary>
+      <talks_description></talks_description>
+      <speakers_description>ADD when ready:&#13;
+</speakers_description>
+      <slug>the_power_of_cities</slug>
+      <is_featured></is_featured>
+    </theme>
+    <theme>
+      <id>6</id>
+      <name>What's Next in Tech</name>
+      <description>The contemplation and, often, introduction of new technology is integral to TED: you might say it's embedded in our genetic code.&#13;
+&#13;
+Computer scientist &lt;a href="/index.php/talks/view/id/65"&gt;Jeff Han&lt;/a&gt; intends to reinvent computing by replacing traditional point-click user interfaces with dynamic touch screens. &lt;a href="/index.php/talks/view/id/195"&gt;Robert Full&lt;/a&gt; wants to enhance transit and robotics by studying the motion of animals whose system of locomotion can adapt to nearly any surface. And &lt;a href="/index.php/talks/view/id/193"&gt;Juan Enriquez&lt;/a&gt; discusses oil energy -- derived, ultimately, from ancient plants -- and wonders why we can't develop methods to "grow" energy as efficiently as we grow wheat.&#13;
+&#13;
+&lt;a href="/index.php/talks/view/id/129"&gt;Blaise Aguera y Arcas&lt;/a&gt; demonstrates his powerful new software, Photosynth, which fuses digital photographs from unrelated sources into fluid, three-dimensional tapestries of real environments. &lt;a href="/index.php/talks/view/id/142"&gt;Alan Russell&lt;/a&gt; wants to use bioengineered tissue to regenerate damaged body parts. And &lt;a href="/index.php/talks/view/id/72"&gt;Chris Anderson&lt;/a&gt; of &lt;i&gt;WIRED&lt;/i&gt; discusses how emerging technologies -- matched with the right business model -- can make an impact of perhaps surprising magnitude.</description>
+      <shortsummary>From reinventing computing to exploring new materials, a celebration of creativity and inventiveness</shortsummary>
+      <talks_description></talks_description>
+      <speakers_description></speakers_description>
+      <slug>what_s_next_in_tech</slug>
+      <is_featured></is_featured>
+    </theme>
+    <theme>
+      <id>7</id>
+      <name>Presentation Innovation</name>
+      <description>Great speakers hold the power to captivate and inspire. This collection highlights speakers who go one step further -- and innovate on the form itself.&#13;
+&#13;
+Doctor and researcher &lt;a href="/index.php/talks/view/id/92"&gt;Hans Rosling&lt;/a&gt;'s eye-catching statistics don't stand still: they mutate, morph and crackle with color. Medical illustrator &lt;a href="/index.php/talks/view/id/147"&gt;David Bolinsky&lt;/a&gt; takes us into the nano-scale workings of living cells with animated computer graphics that mesmerize. And Internet art wizard &lt;a href="/index.php/talks/view/id/144"&gt;Jonathan Harris&lt;/a&gt;' ongoing study of emotion in the blogosphere turns web stories into sunrays, whirlpools and fireworks.&#13;
+&#13;
+Don't miss &lt;a href="/index.php/talks/view/id/126"&gt;Blaise Aguera y Arcas&lt;/a&gt;' debut of Photosynth, an astonishing web application that can recognize the content of photographs and stitch them into three-dimensional tapestries. And make sure to catch computer scientist &lt;a href="/index.php/talks/view/id/65"&gt;Jeff Han&lt;/a&gt;'s enthusiastic demo of his new multi-touch user interface -- it will change the way we interact with computers.</description>
+      <shortsummary>Eye-opening ways to show stats, share ideas and captivate the crowd</shortsummary>
+      <talks_description></talks_description>
+      <speakers_description></speakers_description>
+      <slug>presentation_innovation</slug>
+      <is_featured></is_featured>
+    </theme>
+    <theme>
+      <id>9</id>
+      <name>Spectacular Performance</name>
+      <description>This collection of extraordinary dancers, actors, musicians, magicians and storytellers will bring both sides of your brain to life.&#13;
+&#13;
+Pianist &lt;a href="/index.php/talks/view/id/46"&gt;Jennifer Lin&lt;/a&gt;, just 14 at the time of her performance, confects spirited (and altogether unrehearsed) compositions from spur-of-the-moment audience suggestions. Jazz-inspired guitarist and singer &lt;a href="/index.php/talks/view/id/188"&gt;Raul Midon&lt;/a&gt; riles up 2007 TEDsters with songs about Google, technology, dreams and a child's fear of "invisible forces." And &lt;a href="/index.php/talks/view/id/158"&gt;Vusi Mahlasela&lt;/a&gt;, a crucial artistic voice during the fight against apartheid, shares his soulful, optimistic songs of protest and solidarity. (Be sure to watch his &lt;a href="/index.php/talks/view/id/169"&gt;encore&lt;/a&gt; performance.)&#13;
+&#13;
+&lt;a href="/index.php/talks/view/id/24"&gt;Pilobolus&lt;/a&gt;' smooth, organic choreography -- featuring unusual partnering and lifts -- blurs the lines between individual performers, creating a sense of dance-troupe-as-organism. And in a feat of agility and optical illusion, urban-inspired dancer &lt;a href="/index.php/talks/view/id/179"&gt;Kenichi Ebina&lt;/a&gt; teases and twirls a mischievous wisp of light.&#13;
+&#13;
+Also check out "mathemagician" &lt;a href="/index.php/talks/view/id/199"&gt;Arthur Benjamin&lt;/a&gt;'s massive on-the-fly multiplications -- calculations so fast you might think it's magic. Or wordsmith &lt;a href="/index.php/talks/view/id/148"&gt;Rives&lt;/a&gt;' observations on the eerie coincidences surrounding that most surreal of hours: 4 a.m. And don't miss veteran TEDster &lt;a href="/index.php/talks/view/id/144"&gt;Tom Rielly&lt;/a&gt;'s comic send-up of the 2006 conference: not even our sponsors are safe!</description>
+      <shortsummary>Actors and acrobats, musicians and magicians -- sit back and enjoy the show!</shortsummary>
+      <talks_description></talks_description>
+      <speakers_description></speakers_description>
+      <slug>spectacular_performance</slug>
+      <is_featured></is_featured>
+    </theme>
+    <theme>
+      <id>10</id>
+      <name>Architectural Inspiration</name>
+      <description>TED has a love affair with buildings. Big or small, we cherish the inspired visions behind them. But &lt;a href="/index.php/talks/view/id/49"&gt;Joshua Prince-Ramus&lt;/a&gt;, architect of the Seattle Public Library, would argue: It isn't a stroke of genius that creates a great building; rather, it's a rational, collaborative, bottom-up approach. &lt;a href="/index.php/talks/view/id/13"&gt;Frank Gehry&lt;/a&gt;, consummate "starchitect," on the other hand, sees each building as the product of a strong individual vision.&#13;
+&#13;
+Other pioneers are pushing architecture in radically new directions. &lt;a href="/index.php/talks/view/id/54"&gt;Cameron Sinclair&lt;/a&gt; champions design for humanitarian causes, and his new Open Architecture Network could revolutionize the pro bono project. Sustainability guru &lt;a href="/index.php/talks/view/id/104"&gt;William McDonough&lt;/a&gt; is bringing green design to the Rust Belt and to brand-new megacities in China. And then there's the delightful and uncategorizable &lt;a href="/index.php/talks/view/id/198"&gt;Ron Eglash&lt;/a&gt;, who found math in the design of African villages.</description>
+      <shortsummary>Architects present some of their most fascinating projects</shortsummary>
+      <talks_description></talks_description>
+      <speakers_description></speakers_description>
+      <slug>architectural_inspiration</slug>
+      <is_featured></is_featured>
+    </theme>
+    <theme>
+      <id>12</id>
+      <name>TED Prize Winners</name>
+      <description>Every year, TED names three new recipients for the TED Prize. These are the winners' acceptance talks, where they reveal their wish to change the world. &#13;
+&#13;
+&lt;a href="http://www.tedprize.org/2009-winners/" target="_blank"&gt;Read about the 2009 winners &gt;&gt;&lt;/a&gt;&#13;
+&#13;
+From 2005, &lt;b&gt;Bono&lt;/b&gt; shares a call to action on Africa; photographer &lt;b&gt;Edward Burtynsky&lt;/b&gt; shows jaw-dropping photos of industrial landscapes and asks for help teaching the next generation to be green; and medical inventor &lt;b&gt;Robert Fischell&lt;/b&gt; wishes for design help for next-generation health tools.&#13;
+&#13;
+From 2006, architect &lt;b&gt;Cameron Sinclair&lt;/b&gt; sets out a plan for sharing open-source design for humanity; filmmaker &lt;b&gt;Jehane Noujaim&lt;/b&gt; wishes to tap the power of film to strengthen tolerance and compassion while uniting millions of people to build a better future; and &lt;b&gt;Dr. Larry Brilliant&lt;/b&gt; asks for the TED community's help in building a global early-warning system to find and contain new pandemics.&#13;
+&#13;
+From 2007, &lt;b&gt;Bill Clinton&lt;/b&gt; talks about how we can help build a health care system in Rwanda; &lt;b&gt;James Nachtwey&lt;/b&gt; shows searing photographs of war and conflict; and &lt;b&gt;E.O. Wilson&lt;/b&gt; shares his vision for the Encyclopedia of Life.</description>
+      <shortsummary>Acceptance talks from each of the three annual TED Prize winners</shortsummary>
+      <talks_description></talks_description>
+      <speakers_description></speakers_description>
+      <slug>ted_prize_winners</slug>
+      <is_featured></is_featured>
+    </theme>
+    <theme>
+      <id>14</id>
+      <name>Inspired by Nature</name>
+      <description>Who can fail to marvel at the shape of a leaf, the sleek power of a cheetah, the dance of two bodies connecting? These speakers celebrate and take inspiration from the natural world -- in the design of a new chair or in a vision for living lightly upon the Earth. &#13;
+&#13;
+&lt;b&gt;Janine Benyus&lt;/b&gt; talks about biomimicry, the practice of copying nature's own engineers, while designers &lt;b&gt;Ross Lovegrove&lt;/b&gt; and &lt;b&gt;Paul Bennett&lt;/b&gt; discuss the practice of solving design problems by reducing them to evolutionary principles. And &lt;b&gt;Alex Steffen&lt;/b&gt; from Worldchanging.com shares his bright-green vision for a society in harmony. &#13;
+&#13;
+For your own shot of inspiration, take a look at the work of photographer &lt;b&gt;Frans Lanting&lt;/b&gt;, and his spine-tingling images of natural grace.</description>
+      <shortsummary>Who can fail to marvel at the natural world? A collection of talks in praise of nature</shortsummary>
+      <talks_description></talks_description>
+      <speakers_description></speakers_description>
+      <slug>inspired_by_nature</slug>
+      <is_featured></is_featured>
+    </theme>
+    <theme>
+      <id>15</id>
+      <name>A Greener Future?</name>
+      <description>The environmental debate has traditionally been characterized as a conflict between economic progress and preservation of the planet. Most TED speakers, however, insist that we can have both -- provided we're smart about it.&#13;
+&#13;
+&lt;a href="/index.php/talks/view/id/1"&gt;Al Gore&lt;/a&gt;, the world's leading voice on the climate crisis, argues that the simple steps we might take to avert disaster would also fuel the economy. Architect &lt;a href="/index.php/talks/view/id/104"&gt;William McDonough&lt;/a&gt; shows how the power of great design -- working on entire systems rather than local components -- can foster an abundant, sustainable future. And &lt;a href="/index.php/talks/view/id/53"&gt;Majora Carter&lt;/a&gt; discusses her work to bring green spaces to the blighted South Bronx.&#13;
+&#13;
+&lt;a href="/index.php/talks/view/id/56"&gt;Edward Burtynsky&lt;/a&gt;'s eerily pretty photographs of environmental damage and economic development document humanity's ever-expanding footprint. And biologist &lt;a href="/index.php/talks/view/id/83"&gt;E.O. Wilson&lt;/a&gt; shares his grandest wish -- that the human community band together to save life on Earth.</description>
+      <shortsummary>These pioneers of green are building a smart and sustainable future</shortsummary>
+      <talks_description></talks_description>
+      <speakers_description></speakers_description>
+      <slug>a_greener_future</slug>
+      <is_featured></is_featured>
+    </theme>
+    <theme>
+      <id>16</id>
+      <name>Tales of Invention</name>
+      <description>TED has always loved a good creation story. No matter the scale -- kitchen, continent, or solar system -- invention grants us access to the frontiers of our understanding.&#13;
+&#13;
+Legendary designer &lt;a href="/index.php/talks/view/id/197"&gt;Philippe Starck&lt;/a&gt;'s lively ruminations on his own creative process suggest how the patterns of a civilization might affect, say, the design of a citrus juicer. &lt;a href="/index.php/talks/view/id/190"&gt;Jan Chipchase&lt;/a&gt; investigates the worldwide impact of mobile phones -- and the impact of culture on next-generation mobile technology. Explorer and adventurer &lt;a href="/index.php/talks/view/id/141"&gt;Bill Stone&lt;/a&gt;, meanwhile, fires up a rapt audience with his ambitious plan to harvest energy from the moon.&#13;
+&#13;
+Copyright lawyer &lt;a href="/index.php/talks/view/id/187"&gt;Larry Lessig&lt;/a&gt; gives a brief history of creative freedom and copyright, and talks about how contemporary copyright law could strangle future artistic invention and interpretation. &lt;a href="/index.php/talks/view/id/153"&gt;William Kamkwamba&lt;/a&gt; tells how he built a windmill from scrap metal when he was 14 years old. And &lt;a href="/index.php/talks/view/id/2"&gt;Amy Smith&lt;/a&gt; shares her transformative low-tech tools for saving life in the developing world.</description>
+      <shortsummary>Inventive souls who create something from nothing inspire us to dream bigger</shortsummary>
+      <talks_description></talks_description>
+      <speakers_description></speakers_description>
+      <slug>tales_of_invention</slug>
+      <is_featured></is_featured>
+    </theme>
+    <theme>
+      <id>17</id>
+      <name>Art Unusual</name>
+      <description>&lt;em&gt;Image: Maira Kalman&lt;/em&gt;&#13;
+&#13;
+Provocative, multidisciplinary and often technology-driven, new modes of art and performance defy their traditional definitions. These Talks celebrate artistic innovation as well as creative cross-pollination.&#13;
+&#13;
+Game designer &lt;a href="/index.php/talks/view/id/146"&gt;Will Wright&lt;/a&gt; constructs virtual worlds in which players can make creatures of their own. The dancers of &lt;a href="/index.php/talks/view/id/24"&gt;Pilobolus&lt;/a&gt; blur the boundary between two bodies, and &lt;a href="/index.php/talks/view/id/64"&gt;Eve Ensler&lt;/a&gt; crosses a few boundaries herself by speaking bluntly about the body. &#13;
+&#13;
+&lt;a href="/index.php/talks/view/id/14"&gt;Golan Levin&lt;/a&gt; uses software to create experimental sonic and visual artworks -- a symphony of ringtones, for example. &lt;a href="/index.php/talks/view/id/32"&gt;Vik Muniz&lt;/a&gt;'s artwork -- made of chocolate, confetti and clouds -- challenges our perceptions and teases our imaginations. And &lt;a href="/index.php/talks/view/id/50"&gt;Stefan Sagmeister&lt;/a&gt; shows how a little flair and an ardent attention to detail can do for design something indispensable: make people happy.</description>
+      <shortsummary>Make room in the canon for this new breed of artists</shortsummary>
+      <talks_description></talks_description>
+      <speakers_description></speakers_description>
+      <slug>art_unusual</slug>
+      <is_featured></is_featured>
+    </theme>
+    <theme>
+      <id>18</id>
+      <name>To Boldly Go ...</name>
+      <description>At TED, the spirit of adventure runs deep. An explorer's tale can move us, enrich our knowledge and awaken the wanderer within.&#13;
+&#13;
+Through pictures and words, we accompany &lt;a href="/index.php/talks/view/id/89"&gt;Ben Saunders&lt;/a&gt; on his incredible journey to the North Pole -- on skis, alone. Planetary scientist &lt;a href="/index.php/talks/view/id/178"&gt;Carolyn Porco&lt;/a&gt; takes us along the spacecraft &lt;i&gt;Cassini&lt;/i&gt;'s voyage to Saturn and its mysterious moons. And adventurer &lt;a href="/index.php/talks/view/id/141"&gt;Bill Stone&lt;/a&gt; talks about his exploration of the deepest caverns on Earth -- and how his experiences there will help his mission to discover life in the outer reaches of the solar system.</description>
+      <shortsummary>Exploration at the edge of the known universe</shortsummary>
+      <talks_description></talks_description>
+      <speakers_description></speakers_description>
+      <slug>to_boldly_go</slug>
+      <is_featured></is_featured>
+    </theme>
+    <theme>
+      <id>19</id>
+      <name>The Rise of Collaboration</name>
+      <description>Yochai Benkler dubs it 'the wealth of networks." Howard Rheingold's term is "smart mobs." It's the idea of technology-enabled collaboration … and it's making us all smarter.&#13;
+&#13;
+The open-source movement embodies this spirit of collaboration. &lt;a href="/index.php/talks/view/id/37"&gt;Jimmy Wales&lt;/a&gt; tells the story of perhaps the movement's most famous example, Wikipedia -- while &lt;a href="/index.php/talks/view/id/25"&gt;Richard Baraniuk&lt;/a&gt; envisions a free global education system to which thousands of teachers could contribute. &lt;a href="/index.php/talks/view/id/63"&gt;Charles Leadbeater&lt;/a&gt; gives examples of collaborative innovation that predate the Web. And 2006 TED Prize winner &lt;a href="/index.php/talks/view/id/54"&gt;Cameron Sinclair&lt;/a&gt; wants to shelter the world -- by providing an online platform for open-source architecture.&#13;
+&#13;
+And &lt;a href="http://www.ted.com/index.php/talks/view/id/145"&gt;Deborah Gordon&lt;/a&gt; shows us the inspiration for all this: the desert anthill.</description>
+      <shortsummary>Call it "hive mind," "smart mobs" or the "wisdom of crowds" ... it's making us all smarter</shortsummary>
+      <talks_description></talks_description>
+      <speakers_description>There are many variations on the theme, each with its own catchphrase. A decade ago Kevin Kelly wrote about "the hive mind." Yochai Benkler dubs it 'the wealth of networks." Howard Rheingold's term is "smart mobs." James Surowiecki called it "the wisdom of crowds."</speakers_description>
+      <slug>the_rise_of_collaboration</slug>
+      <is_featured>1</is_featured>
+    </theme>
+    <theme>
+      <id>20</id>
+      <name>Rethinking Poverty</name>
+      <description>The catchphrase goes, "Make poverty history." But how? These speakers' innovative ideas may convince you to forget the traditional models -- grants, aid, charity -- and consider business, technology and trade instead.&#13;
+&#13;
+&lt;a href="/index.php/talks/view/id/157"&gt;Jacqueline Novogratz&lt;/a&gt;, founder of the Acumen Fund, argues for a combination of philanthropy and investment -- highlighting personal dignity and choice as the path to progress. Academic and policymaker &lt;a href="/index.php/talks/view/id/3"&gt;Ashraf Ghani&lt;/a&gt;, meanwhile, urges us to rethink capital in terms of security, social connectivity and education. And &lt;a href="/index.php/talks/view/id/140"&gt;Hans Rosling&lt;/a&gt;'s dazzling, animated statistics reveal the true discrepancies between emerging and developed economies. &#13;
+&#13;
+&lt;a href="/index.php/talks/view/id/79"&gt;Iqbal Quadir&lt;/a&gt; explains how he improved a Bangladeshi business model -- by replacing cows with a new component: mobile phones. &lt;a href="/index.php/talks/view/id/53"&gt;Majora Carter&lt;/a&gt; details her efforts to bring green space to the blighted South Bronx, offering an eye-opening look at how flawed urban policy allows ghettos to exist. &lt;a href="/index.php/talks/view/id/127"&gt;Ngozi Okonjo-Iweala&lt;/a&gt;, meanwhile, lets us in on a secret: business in impoverished countries is viable, and a "few smart people" have already made millions of dollars.</description>
+      <shortsummary>Fresh ideas for making poverty history</shortsummary>
+      <talks_description></talks_description>
+      <speakers_description></speakers_description>
+      <slug>rethinking_poverty</slug>
+      <is_featured></is_featured>
+    </theme>
+    <theme>
+      <id>21</id>
+      <name>Is There a God?</name>
+      <description>While TED has no official stance on religion, speakers do occasionally venture (bravely) into this contentious territory.&#13;
+&#13;
+At TED's 2006 conference, best-selling author and pastor &lt;a href="/index.php/talks/view/id/71"&gt;Rick Warren&lt;/a&gt; argued that an exceptional life must be driven by spiritual purpose. But he was immediately challenged by atheist philosopher &lt;a href="/index.php/talks/view/id/94"&gt;Dan Dennett&lt;/a&gt;, who argued that Warren's claims couldn't be true. (If you're feeling courageous, you can join this ongoing debate on our forum, at right.)</description>
+      <shortsummary>Is there any bigger question?</shortsummary>
+      <talks_description></talks_description>
+      <speakers_description></speakers_description>
+      <slug>is_there_a_god</slug>
+      <is_featured></is_featured>
+    </theme>
+    <theme>
+      <id>22</id>
+      <name>Master Storytellers</name>
+      <description>Nowhere has the timeless power of narrative been more apparent than at TED: here, storytellers both professional and provisional use the personal tale to entertain, educate and inspire to action.&#13;
+	&#13;
+&lt;a href="/index.php/talks/view/id/60"&gt;Anna Deavere Smith&lt;/a&gt; replicates the spoken styles of true-to-life American characters with her startling monologues -- "organic poetry" extracted verbatim from interviews. Whip-smart &lt;a href="/index.php/talks/view/id/108"&gt;Rives&lt;/a&gt; and razor-sharp &lt;a href="/index.php/talks/view/id/86"&gt;Julia Sweeney&lt;/a&gt; revel in the rhythmic power of the spoken word. And &lt;a href="/index.php/talks/view/id/144"&gt;Jonathan Harris&lt;/a&gt; uses web technology to collect, catalog and broadcast the emotions and aspirations of thousands of people -- instantaneously.&#13;
+&#13;
+&lt;a href="/index.php/talks/view/id/189"&gt;Sherwin Nuland&lt;/a&gt; illuminates the history and potential of electroshock therapy through an emotional, personal account of depression. &lt;a href="/index.php/talks/view/id/69"&gt;Wade Davis&lt;/a&gt;’ passionate talk on vanishing world cultures simply grabs you from the first instant. And you’ll never forget &lt;a href="/index.php/talks/view/id/89"&gt;Ben Saunders&lt;/a&gt;’ rousing recollections of skiing to the North Pole -- alone.&#13;
+&#13;
+If these stories inspire you to tell your own, consider &lt;a href="http://www.pangeaday.org/"&gt;submitting a film to Pangea Day &gt;&gt;&lt;/a&gt;</description>
+      <shortsummary>These folks know how to spin a good yarn</shortsummary>
+      <talks_description></talks_description>
+      <speakers_description></speakers_description>
+      <slug>master_storytellers</slug>
+      <is_featured></is_featured>
+    </theme>
+    <theme>
+      <id>23</id>
+      <name>Bold Predictions, Stern Warnings</name>
+      <description>These passionate, fearless speakers don’t mince words. They identify the most difficult problems and propose bold solutions.&#13;
+&#13;
+Climatologist &lt;a href="/index.php/talks/view/id/192"&gt;David Keith&lt;/a&gt; considers the dramatic and even dangerous ways in which global warming might be reversed in a hurry -- and who ought to regulate such action. On the same issue, economist &lt;a href="/index.php/talks/view/id/62"&gt;Bjorn Lomborg&lt;/a&gt; delivers his controversial but no less important thesis: there are simply bigger problems to worry about. And characteristically acerbic &lt;a href="/index.php/talks/view/id/121"&gt;James Howard Kunstler&lt;/a&gt; wants to stave off a hypothetical "long emergency" -- by encouraging developers to build public spaces worth caring about.&#13;
+&#13;
+Other speakers see more reason for optimism. Maverick gerontologist &lt;a href="/index.php/talks/view/id/39"&gt;Aubrey de Grey&lt;/a&gt; investigates the notion of indefinite life extension, while inventor &lt;a href="/index.php/talks/view/id/38"&gt;Ray Kurzweil&lt;/a&gt; predicts an accelerated future where technology and humanity advance as one. And &lt;a href="/index.php/talks/view/id/68"&gt;Robert Wright&lt;/a&gt;’s dry delivery somehow highlights his inspired conviction that human history has a direction -- an "arrow" -- and that, from here, things can only get better.</description>
+      <shortsummary>Speakers who aren't afraid to go negative</shortsummary>
+      <talks_description></talks_description>
+      <speakers_description></speakers_description>
+      <slug>bold_predictions_stern_warnings</slug>
+      <is_featured></is_featured>
+    </theme>
+  </themes>
+  <counts>
+    <this>20</this>
+    <total>47</total>
+  </counts>
+</response>
